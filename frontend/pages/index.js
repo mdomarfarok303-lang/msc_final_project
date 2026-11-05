@@ -7,7 +7,7 @@ export default function Home() {
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-r from-purple-400 via-pink-500 to-yellow-500 text-white py-20 px-6">
       <div className="text-center mb-16">
         <h1 className="text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-teal-200 drop-shadow-md">
-          Medical DApp
+         Smart Electronic Health Center
         </h1>
         <p className="text-xl font-semibold text-gray-100 mt-4">
           Secure, Patient-Centric Medical Records

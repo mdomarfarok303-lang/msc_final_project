@@ -2,13 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/admin": "pages/admin.js",
-  "/api/registerPatient": "pages/api/registerPatient.js",
-  "/loginPatient": "pages/loginPatient.js",
-  "/api/validatePatient": "pages/api/validatePatient.js",
-  "/patientDashboard": "pages/patientDashboard.js",
-  "/api/getPatientData": "pages/api/getPatientData.js",
-  "/getDocument": "pages/getDocument.js",
-  "/api/getPatientDocuments": "pages/api/getPatientDocuments.js"
+  "/": "pages/index.js"
 }
