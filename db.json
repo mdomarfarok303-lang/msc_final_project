@@ -1,0 +1,32 @@
+{
+  "1": {
+    "name": "Dr. Sohag",
+    "referencePhotoUrl": "/photos/Dr_sohag.jpeg",
+    "passwordHash": null
+  },
+  "2": {
+    "name": "Dr. Omar Farok",
+    "referencePhotoUrl": "/photos/dr_omor.jpg",
+    "passwordHash": "$2a$10$AVCB2sHSyKLR.iBrb8YC0.z3MpavpTRASk/Z5lAQQjSaflCBSJOkq"
+  },
+  "3": {
+    "name": "Dr. Faisal",
+    "referencePhotoUrl": "/photos/Faisal_sir.jpeg",
+    "passwordHash": null
+  },
+  "4": {
+    "name": "Dr. Shimu",
+    "referencePhotoUrl": "/photos/shimu.jpeg",
+    "passwordHash": null
+  },
+  "5": {
+    "name": "Dr. Uday",
+    "referencePhotoUrl": "/photos/uday.jpeg",
+    "passwordHash": null
+  },
+  "6": {
+    "name": "Dr. rakib",
+    "referencePhotoUrl": "/photos/Rakib.jpeg",
+    "passwordHash": null
+  }
+}

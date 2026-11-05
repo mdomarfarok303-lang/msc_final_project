@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/admin": "pages/admin.js",
+  "/giveAccess": "pages/giveAccess.js",
+  "/getDocument": "pages/getDocument.js",
+  "/api/deleteDocument": "pages/api/deleteDocument.js",
+  "/api/getDocumentsByDoctor": "pages/api/getDocumentsByDoctor.js"
+}

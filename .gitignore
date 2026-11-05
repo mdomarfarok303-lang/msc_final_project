@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Generated files
+artifacts/
+cache/
+
+# Python cache
+__pycache__/
+*.pyc
+venv/
+.venv/
