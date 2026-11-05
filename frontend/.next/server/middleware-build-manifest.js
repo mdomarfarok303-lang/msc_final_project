@@ -10,6 +10,11 @@ self.__BUILD_MANIFEST = {
   "rootMainFiles": [],
   "rootMainFilesTree": {},
   "pages": {
+    "/": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/index.js"
+    ],
     "/_app": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -25,25 +30,20 @@ self.__BUILD_MANIFEST = {
       "static/chunks/main.js",
       "static/chunks/pages/admin.js"
     ],
-    "/doctorDashboard": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/doctorDashboard.js"
-    ],
     "/getDocument": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/getDocument.js"
     ],
-    "/giveAccess": [
+    "/loginPatient": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/giveAccess.js"
+      "static/chunks/pages/loginPatient.js"
     ],
-    "/uploadDocument": [
+    "/patientDashboard": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/uploadDocument.js"
+      "static/chunks/pages/patientDashboard.js"
     ]
   },
   "ampFirstPages": []
